@@ -1,4 +1,4 @@
-#This is my introductory and test file which I upload from the RStudio to 
+#This is my introductory and test file which I uploaded from the RStudio to 
 #Github repo.
 #Name: Muhammad Shahzad
 #Title: Software Engineer {Technical Product Support} | Fintech & Payment Industry
